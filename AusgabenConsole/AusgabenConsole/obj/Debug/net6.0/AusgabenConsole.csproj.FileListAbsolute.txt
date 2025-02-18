@@ -1,0 +1,15 @@
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\bin\Debug\net6.0\AusgabenConsole.exe
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\bin\Debug\net6.0\AusgabenConsole.deps.json
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\bin\Debug\net6.0\AusgabenConsole.runtimeconfig.json
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\bin\Debug\net6.0\AusgabenConsole.dll
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\bin\Debug\net6.0\AusgabenConsole.pdb
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.csproj.AssemblyReference.cache
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.AssemblyInfoInputs.cache
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.AssemblyInfo.cs
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.csproj.CoreCompileInputs.cache
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.dll
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\refint\AusgabenConsole.dll
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.pdb
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\AusgabenConsole.genruntimeconfig.cache
+C:\Users\Schueler-IT\Desktop\TestDesktop\NeuerVersuchVisualStudio\AusgabenConsole\AusgabenConsole\obj\Debug\net6.0\ref\AusgabenConsole.dll
